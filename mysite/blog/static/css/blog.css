@@ -42,8 +42,8 @@ h1, h2, h3, h4 {
     width: 100%;
 }
 
-.top-menu,.top-menu: hover, .top-menu: visited {
-    color: #cff76a;
+.top-menu,.top-menu:hover, .top-menu:visited {
+    color: #d4f24d;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -53,7 +53,7 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
-.post h2 a, .post h2 a: visited{
+.post h2 a, .post h2 a:visited{
     color: #000000;
 }
 
